@@ -5,10 +5,10 @@ target 'Ios-Test-Assignment' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-    pod 'FirebaseCore'
-    pod 'FirebaseMessaging'
-    pod 'FirebaseFirestore'
-    
+
+  pod 'FirebaseCore'
+  pod 'FirebaseFirestore'
+  pod 'FirebaseMessaging'
    
   # Pods for Ios-Test-Assignment
 
